@@ -1,4 +1,4 @@
- # 👋 Hi, I'm Md. Khalid Hasan
+ # Hi, I'm Md. Khalid Hasan
 
  **GIS Analyst | Remote Sensing & Spatial Data Specialist**  
   Dhaka, Bangladesh
