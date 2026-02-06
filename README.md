@@ -22,6 +22,7 @@ Dhaka College, University of Dhaka
 - Expected Result: First Class Honours  
 
 **Professional Experiencce**
+
 Center for Environmental and Geographic Information Services (CEGIS)  
 Research Consultant – Remote Sensing Division
 Apr 2025 – Jun 2025  
