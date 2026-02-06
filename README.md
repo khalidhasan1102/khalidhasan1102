@@ -1,5 +1,4 @@
 **Md. Khalid Hasan**
-
 Dhaka, Bangladesh  
 
 **About Me**
@@ -21,11 +20,8 @@ Dhaka College, University of Dhaka
 2022 – Present  
 - Current CGPA: 3.47 / 4.00  
 - Expected Result: First Class Honours  
-GIS & Remote Sensing, Spatial Data Analysis, Urban & Regional Planning,  
-Climate Change & Disaster Risk Reduction, Cartography, Research Methods
 
 **Professional Experienc**e
-
 Center for Environmental and Geographic Information Services (CEGIS)  
 Research Consultant – Remote Sensing Division
 Apr 2025 – Jun 2025  
