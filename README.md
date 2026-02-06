@@ -21,7 +21,7 @@ Dhaka College, University of Dhaka
 - Current CGPA: 3.47 / 4.00  
 - Expected Result: First Class Honours  
 
-**Professional Experienc**e
+**Professional Experiencce**
 Center for Environmental and Geographic Information Services (CEGIS)  
 Research Consultant – Remote Sensing Division
 Apr 2025 – Jun 2025  
