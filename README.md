@@ -14,13 +14,6 @@ I am a GIS and Environmental Research enthusiast with hands-on experience in GIS
 - Urban Heat Island (UHI) and green space analysis  
 - Integration of Optical and SAR data for environmental planning  
 
-**Education**
-
-BSc (Honours) in Geography and Environment  
-Dhaka College, University of Dhaka  
-2022 – Present  
-- Current CGPA: 3.47 / 4.00  
-- Expected Result: First Class Honours  
 
 **Professional Experiencce**
 
@@ -51,11 +44,6 @@ Geo Planning for Advanced Development (GPAD)
 - Data Analysis: R (basic), SPSS  
 - Research Skills: literature review, methodology design, reporting  
 
-**Training & Certifications**
-
-- Professional GIS & Remote Sensing  
-- Research Paper Writing – Grameenphone Academy  
-- SPSS & R Programming (Ongoing)
 
 **Current Goal**
 
